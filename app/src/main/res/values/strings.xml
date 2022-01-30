@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab4/5</string>
+    <string name="events_fragment_title">EventsFragment</string>
+    <string name="holidays_fragment_title">HolidaysFragment</string>
+    <string name="profile_fragment_title">ProfileFragment</string>
+    <string name="events_item_text">Events</string>
+    <string name="holidays_item_text">Holidays</string>
+    <string name="profile_item_text">Profile</string>
+</resources>

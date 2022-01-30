@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/events_item"
+        android:enabled="true"
+        android:icon="@drawable/ic_event"
+        android:title="@string/events_item_text"/>
+
+    <item
+        android:id="@+id/holidays_item"
+        android:enabled="true"
+        android:icon="@drawable/ic_holiday"
+        android:title="@string/holidays_item_text"/>
+
+    <item
+        android:id="@+id/profile_item"
+        android:enabled="true"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/profile_item_text" />
+
+</menu>
